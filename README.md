@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # firmware_client_mqtt
 
 Este projeto é um firmware para Raspberry Pi Pico W que conecta a um broker MQTT e monitora o sub-tópico `/rack_inteligente/000001/door`.
@@ -22,3 +23,7 @@ make
 ## Observações
 - Este projeto é apenas um cliente MQTT para monitorar o estado da porta.
 - Use como base para integrações maiores.
+=======
+# rp2040_mqtt_client_example
+Exemplo de uso do MQTT como cliente na RP2040
+>>>>>>> 9b3e78a0759c787821a58cf57c6443a64415cbdf
